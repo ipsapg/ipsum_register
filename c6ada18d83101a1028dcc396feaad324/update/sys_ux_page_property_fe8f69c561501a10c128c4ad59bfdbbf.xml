@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="register v2">5a8f69c583501a1028dcc396feaad329</page>
+        <required_translations>[]</required_translations>
+        <route display_value="Login">3a8f69c558501a10bf5f2d0617ca3ef9</route>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-08-26 21:35:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>fe8f69c561501a10c128c4ad59bfdbbf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="register v2" source="x_396754_registe_0">c6ada18d83101a1028dcc396feaad324</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="register v2">c6ada18d83101a1028dcc396feaad324</sys_scope>
+        <sys_update_name>sys_ux_page_property_fe8f69c561501a10c128c4ad59bfdbbf</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-08-26 21:35:58</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_396754_registe_0.5a8f69c583501a1028dcc396feaad329.route.chrome_header.3a8f69c558501a10bf5f2d0617ca3ef9</unique_name>
+        <value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false,&#13;
+       "userPrefsEnabled": false,&#13;
+       "menuEnabled": false&#13;
+    },&#13;
+    "publicPage":{&#13;
+       "searchEnabled": false,&#13;
+       "userPrefsEnabled": false,&#13;
+       "menuEnabled": false&#13;
+    }&#13;
+ }</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=fe8f69c561501a10c128c4ad59bfdbbf"/>
+</record_update>

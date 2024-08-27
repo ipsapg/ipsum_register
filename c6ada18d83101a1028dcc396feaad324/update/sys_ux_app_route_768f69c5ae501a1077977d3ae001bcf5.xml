@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Custom Portal App Config">5e8f69c583501a1028dcc396feaad329</app_config>
+        <description/>
+        <extension_point/>
+        <fields>sysId,table</fields>
+        <icon/>
+        <name>Record Page(request)</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>record_request</route_type>
+        <screen_type display_value="Record Page(request)">b28f69c5ef501a10d380b1d02119c6f8</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-08-26 21:35:58</sys_created_on>
+        <sys_id>768f69c5ae501a1077977d3ae001bcf5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Record Page(request)</sys_name>
+        <sys_package display_value="register v2" source="x_396754_registe_0">c6ada18d83101a1028dcc396feaad324</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="register v2">c6ada18d83101a1028dcc396feaad324</sys_scope>
+        <sys_update_name>sys_ux_app_route_768f69c5ae501a1077977d3ae001bcf5</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-08-26 21:35:58</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=768f69c5ae501a1077977d3ae001bcf5"/>
+</record_update>

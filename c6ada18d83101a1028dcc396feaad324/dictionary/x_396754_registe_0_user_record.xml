@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e60ea10183501a1028dcc396feaad345" extends="task" label="User Record" max_length="40" name="x_396754_registe_0_user_record" type="collection"/>
+</database>
